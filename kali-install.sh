@@ -463,3 +463,4 @@ printf "${green}[+] nethunter kex stop    # To stop NetHunter GUI root session${
 printf "${green}[+] nethunter -r kex kill # To stop all NetHunter GUI sessions${reset}\n"
 printf "${green}[+] nethunter -r kex <command> # Run command in NetHunter env as root${reset}\n"
 printf "${green}[+] nh                    # Shortcut for nethunter${reset}\n\n"
+xdg-open 'https://t.me/SANATANI_HACKERSS'
