@@ -1,9 +1,10 @@
 #!/data/data/com.termux/files/usr/bin/bash -e
 clear
 apt update ; yes | apt upgrade
-apt install python-pip python -y
+apt install python-pip python wget -y
 pip install lolcat
 apt install figlet -y
+clear
 figlet "KALI" | lolcat
 echo "installation script by sanatani-hackers"
 echo "telegram:- https://t.me/sanatani_hackerss"
